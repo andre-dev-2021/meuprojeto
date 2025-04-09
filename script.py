@@ -1,4 +1,3 @@
-i = 0
-while i < 10:
+for i in range(10):
     print(i)
     i += 2
